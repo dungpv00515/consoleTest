@@ -10,7 +10,7 @@ namespace ConsoleTestGithub
     {
         static void Main(string[] args)
         {
-            //Add more 
+            //Add more s
         }
     }
 }
